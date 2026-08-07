@@ -1,4 +1,4 @@
-# Hi, I'm Fayol 👋
+# Hi, I'm Fayol
 
 Software Engineer — frontend-focused, product-minded, and building AI-native
 developer tools.
